@@ -1,0 +1,112 @@
+[DEBUG] 2023-06-25 11:12:12.385 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-25 11:12:12.388 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-25 11:12:12.388 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-25 11:12:12.388 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-25 11:12:12.388 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-25 11:12:22.182 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-25 13:56:22.816 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-25 13:56:22.821 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-25 13:56:22.821 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-25 13:56:22.822 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-25 13:56:22.823 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-25 13:56:35.133 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-25 13:58:15.417 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-25 13:58:15.423 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-25 13:58:15.424 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-25 13:58:15.424 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-25 13:58:15.424 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-25 13:58:25.243 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-25 14:01:51.342 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-25 14:01:51.352 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-25 14:01:51.353 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-25 14:01:51.353 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-25 14:01:51.353 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-25 14:02:01.386 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-25 14:02:43.684 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-25 14:02:43.689 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-25 14:02:43.690 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-25 14:02:43.690 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-25 14:02:43.690 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-25 14:02:56.396 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-25 14:34:05.253 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-25 14:34:05.256 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-25 14:34:05.256 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-25 14:34:05.257 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-25 14:34:05.257 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-25 14:37:34.593 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-25 14:37:34.602 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-25 14:37:34.602 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-25 14:37:34.602 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-25 14:37:34.602 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-26 08:37:53.439 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-26 08:37:53.445 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-26 08:37:53.445 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-26 08:37:53.445 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-26 08:37:53.445 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-26 08:38:15.220 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 07:13:10.046 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 07:13:10.050 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 07:13:10.051 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 07:13:10.051 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 07:13:10.051 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 07:13:22.231 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 07:22:07.066 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 07:22:07.069 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 07:22:07.069 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 07:22:07.069 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 07:22:07.069 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 07:22:23.822 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 07:29:56.344 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 07:29:56.352 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 07:29:56.352 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 07:29:56.352 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 07:29:56.353 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 07:30:08.228 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 07:30:38.650 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 07:30:38.657 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 07:30:38.658 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 07:30:38.658 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 07:30:38.658 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 07:37:49.185 [TestNG-tests-1] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 07:37:49.186 [TestNG-tests-1] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 07:37:49.186 [TestNG-tests-1] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 07:37:49.186 [TestNG-tests-1] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 07:37:49.187 [TestNG-tests-1] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 07:37:59.640 [TestNG-tests-3] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 07:37:59.656 [TestNG-tests-1] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 07:40:40.960 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 07:40:40.963 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 07:40:40.963 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 07:40:40.964 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 07:40:40.964 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 07:40:52.099 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 09:01:37.470 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 09:01:37.474 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 09:01:37.474 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 09:01:37.474 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 09:01:37.475 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 09:01:49.430 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 09:09:34.623 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 09:09:34.631 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 09:09:34.631 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 09:09:34.631 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 09:09:34.632 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 09:09:45.786 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 09:21:27.342 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 09:21:27.346 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 09:21:27.346 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 09:21:27.347 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 09:21:27.347 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 09:21:39.433 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 09:22:44.642 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 09:22:44.648 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 09:22:44.648 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 09:22:44.649 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 09:22:44.649 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 09:22:55.383 [main] testCases.HomePageTest - Debuggin
+[DEBUG] 2023-06-27 09:25:54.815 [main] testCases.HomePageTest - This is debug
+[INFO ] 2023-06-27 09:25:54.819 [main] testCases.HomePageTest - chrome browser is opening
+[WARN ] 2023-06-27 09:25:54.820 [main] testCases.HomePageTest - This is warning
+[FATAL] 2023-06-27 09:25:54.820 [main] testCases.HomePageTest - This is Fatal
+[ERROR] 2023-06-27 09:25:54.820 [main] testCases.HomePageTest - This is error
+[DEBUG] 2023-06-27 09:26:06.064 [main] testCases.HomePageTest - Debuggin
